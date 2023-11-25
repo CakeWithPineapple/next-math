@@ -31,5 +31,5 @@ const convertedLength = v1("unit_conversion", ".", "meters", "feet", "[n] ft");
 - **Matrix Operations**: Addition, multiplication, inversion, determinant.
 
 ## Other Features
-- Review the source code of v1 in the src/index.ts (github.com/CakeWithPineapple/next-math).
+- Review the source code of v1 in the src/index.ts (github.com/CakeWithPineapple/ts-math).
 - Use the playground at https://hikeland.nl/ts-math
