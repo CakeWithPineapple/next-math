@@ -1,18 +1,18 @@
-# useMath
+# @hikelibs/ts-math
 
-`useMath` is a versatile Next.js & TypeScript library for mathematical operations. It is designed to be simple to use and flexible for a variety of mathematical tasks.
+`ts-math` is a versatile Next.js & TypeScript library for mathematical operations. It is designed to be simple to use and flexible for a variety of mathematical tasks.
 
 ## Installation
 
-To install `useMath` in your project, run:
+To install `ts-math` in your project, run:
 
 ```bash
-  npm install next-math
+  npm install @hikelibs/ts-math
 ```
 
 ## Usage
 ```typescript
-import { v1 } from "next-math";
+import { v1 } from "@hikelibs/ts-math";
 
 // Example: Addition
 const sum = useMath("add", ".", 2, 3, "[n] apples found!");
@@ -32,4 +32,4 @@ const convertedLength = useMath("unit_conversion", ".", "meters", "feet", "[n] f
 
 ## Other Features
 - Review the source code of v1 in the src/index.ts (github.com/CakeWithPineapple/next-math).
-- Use the playground at https://hikeland.nl/next-math
+- Use the playground at https://hikeland.nl/ts-math
