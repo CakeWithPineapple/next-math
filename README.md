@@ -15,10 +15,10 @@ To install `ts-math` in your project, run:
 import { v1 } from "@hikelibs/ts-math";
 
 // Example: Addition
-const sum = useMath("add", ".", 2, 3, "[n] apples found!");
+const sum = v1("add", ".", 2, 3, "[n] apples found!");
 
 // Example: Unit Conversion
-const convertedLength = useMath("unit_conversion", ".", "meters", "feet", "[n] ft");
+const convertedLength = v1("unit_conversion", ".", "meters", "feet", "[n] ft");
 ```
 
 ## Key Features

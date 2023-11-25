@@ -1,6 +1,6 @@
 {
   "name": "@hikelibs/ts-math",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Math functions for TypeScript developers",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
